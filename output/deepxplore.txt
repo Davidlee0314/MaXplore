@@ -1,0 +1,151 @@
+[92mcovered neurons percentage 52 neurons 0.962, 148 neurons 0.784, 268 neurons 0.709[0m
+[92maveraged covered neurons 0.761[0m
+{'block1_pool1': 0.026785714285714284, 'block2_conv1': 0.031462585034013606, 'block2_pool1': 0.04251700680272109, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.919, 268 neurons 0.881[0m
+[92maveraged covered neurons 0.906[0m
+{'block1_pool1': 0.03188775510204082, 'block2_conv1': 0.031462585034013606, 'block2_pool1': 0.04591836734693878, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.959, 268 neurons 0.914[0m
+[92maveraged covered neurons 0.938[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.04039115646258504, 'block2_pool1': 0.06972789115646258, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.980, 268 neurons 0.922[0m
+[92maveraged covered neurons 0.949[0m
+{'block1_pool1': 0.039540816326530615, 'block2_conv1': 0.047193877551020405, 'block2_pool1': 0.10204081632653061, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.986, 268 neurons 0.933[0m
+[92maveraged covered neurons 0.957[0m
+{'block1_pool1': 0.03188775510204082, 'block2_conv1': 0.03869047619047619, 'block2_pool1': 0.07653061224489796, 'before_softmax': 0.1}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.933[0m
+[92maveraged covered neurons 0.959[0m
+{'block1_pool1': 0.030612244897959183, 'block2_conv1': 0.03231292517006803, 'block2_pool1': 0.047619047619047616, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.937[0m
+[92maveraged covered neurons 0.962[0m
+{'block1_pool1': 0.02040816326530612, 'block2_conv1': 0.02891156462585034, 'block2_pool1': 0.061224489795918366, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.937[0m
+[92maveraged covered neurons 0.962[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.025510204081632654, 'block2_pool1': 0.05612244897959184, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.944[0m
+[92maveraged covered neurons 0.966[0m
+{'block1_pool1': 0.025510204081632654, 'block2_conv1': 0.0233843537414966, 'block2_pool1': 0.04421768707482993, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.955[0m
+[92maveraged covered neurons 0.972[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.05102040816326531, 'block2_pool1': 0.08843537414965986, 'before_softmax': 0.1}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.955[0m
+[92maveraged covered neurons 0.972[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.026785714285714284, 'block2_pool1': 0.04251700680272109, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.959[0m
+[92maveraged covered neurons 0.974[0m
+{'block1_pool1': 0.01913265306122449, 'block2_conv1': 0.018282312925170068, 'block2_pool1': 0.034013605442176874, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.959[0m
+[92maveraged covered neurons 0.974[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.04081632653061224, 'block2_pool1': 0.06292517006802721, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.959[0m
+[92maveraged covered neurons 0.974[0m
+{'block1_pool1': 0.03188775510204082, 'block2_conv1': 0.03231292517006803, 'block2_pool1': 0.05952380952380952, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 0.993, 268 neurons 0.963[0m
+[92maveraged covered neurons 0.976[0m
+{'block1_pool1': 0.026785714285714284, 'block2_conv1': 0.03784013605442177, 'block2_pool1': 0.06292517006802721, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.966[0m
+[92maveraged covered neurons 0.981[0m
+{'block1_pool1': 0.029336734693877552, 'block2_conv1': 0.03273809523809524, 'block2_pool1': 0.04931972789115646, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.970[0m
+[92maveraged covered neurons 0.983[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.026360544217687076, 'block2_pool1': 0.04931972789115646, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.030612244897959183, 'block2_conv1': 0.04549319727891157, 'block2_pool1': 0.06972789115646258, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.0391156462585034, 'block2_pool1': 0.05612244897959184, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.025510204081632654, 'block2_conv1': 0.029336734693877552, 'block2_pool1': 0.04421768707482993, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.03571428571428571, 'block2_conv1': 0.041666666666666664, 'block2_pool1': 0.0663265306122449, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.02423469387755102, 'block2_conv1': 0.027210884353741496, 'block2_pool1': 0.0391156462585034, 'before_softmax': 0.1}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.03188775510204082, 'block2_conv1': 0.02423469387755102, 'block2_pool1': 0.04421768707482993, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.025510204081632654, 'block2_conv1': 0.025935374149659865, 'block2_pool1': 0.05102040816326531, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.02423469387755102, 'block2_conv1': 0.036564625850340135, 'block2_pool1': 0.05952380952380952, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.058673469387755105, 'block2_conv1': 0.050595238095238096, 'block2_pool1': 0.07993197278911565, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.026360544217687076, 'block2_pool1': 0.047619047619047616, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.04336734693877551, 'block2_conv1': 0.05102040816326531, 'block2_pool1': 0.09863945578231292, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.029336734693877552, 'block2_conv1': 0.034013605442176874, 'block2_pool1': 0.06462585034013606, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.025510204081632654, 'block2_conv1': 0.020833333333333332, 'block2_pool1': 0.03571428571428571, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.974[0m
+[92maveraged covered neurons 0.985[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.03316326530612245, 'block2_pool1': 0.07653061224489796, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.04336734693877551, 'block2_pool1': 0.07993197278911565, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.030612244897959183, 'block2_conv1': 0.04974489795918367, 'block2_pool1': 0.07653061224489796, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.03188775510204082, 'block2_conv1': 0.03231292517006803, 'block2_pool1': 0.047619047619047616, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.021683673469387755, 'block2_conv1': 0.031037414965986394, 'block2_pool1': 0.05272108843537415, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.02891156462585034, 'block2_pool1': 0.05442176870748299, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.03316326530612245, 'block2_conv1': 0.05739795918367347, 'block2_pool1': 0.10714285714285714, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.01913265306122449, 'block2_conv1': 0.029336734693877552, 'block2_pool1': 0.04081632653061224, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.029336734693877552, 'block2_conv1': 0.02891156462585034, 'block2_pool1': 0.04591836734693878, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.01913265306122449, 'block2_conv1': 0.02423469387755102, 'block2_pool1': 0.0391156462585034, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.02423469387755102, 'block2_conv1': 0.02848639455782313, 'block2_pool1': 0.04591836734693878, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.026785714285714284, 'block2_conv1': 0.025935374149659865, 'block2_pool1': 0.05272108843537415, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.02806122448979592, 'block2_conv1': 0.03188775510204082, 'block2_pool1': 0.05442176870748299, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.03316326530612245, 'block2_conv1': 0.0391156462585034, 'block2_pool1': 0.061224489795918366, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.03443877551020408, 'block2_conv1': 0.036564625850340135, 'block2_pool1': 0.05272108843537415, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.04591836734693878, 'block2_conv1': 0.04931972789115646, 'block2_pool1': 0.07993197278911565, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.029336734693877552, 'block2_conv1': 0.04336734693877551, 'block2_pool1': 0.06802721088435375, 'before_softmax': 0.1}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.02423469387755102, 'block2_conv1': 0.017857142857142856, 'block2_pool1': 0.03231292517006803, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.026785714285714284, 'block2_conv1': 0.03571428571428571, 'block2_pool1': 0.05442176870748299, 'before_softmax': 0.0}
+[92mcovered neurons percentage 52 neurons 1.000, 148 neurons 1.000, 268 neurons 0.978[0m
+[92maveraged covered neurons 0.987[0m
+{'block1_pool1': 0.025510204081632654, 'block2_conv1': 0.026785714285714284, 'block2_pool1': 0.04591836734693878, 'before_softmax': 0.0}
+Total generated input: 50
