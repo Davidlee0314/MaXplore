@@ -1,6 +1,6 @@
 # MaXplore
 
-This is an CNN testing inputs generation technique, implemented based on [DeepXplore](https://github.com/peikexin9/deepxplore). I substituted the original *Neuron Coverage* into *Strong Neuron Activation Coverage* proposed in [DeepGauge](https://deepgauge.github.io/).
+This is an CNN testing inputs generation technique, implemented based on [DeepXplore](https://github.com/peikexin9/deepxplore). I substituted the original *Neuron Coverage* into *Strong Neuron Activation Coverage* proposed in [DeepGauge](https://deepgauge.github.io/). Please check out the MaXplore.pdf for more details.
 
 ## Run with Docker
 
